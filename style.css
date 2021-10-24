@@ -1,0 +1,17 @@
+body {
+    margin: 100px auto;
+    text-align: center;
+    background-color: #6A6AE2;
+}
+
+#screen {
+    border: 5px solid white;
+    box-sizing: border-box;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    width: 700px;
+    height: 700px;
+    background-color: #6A6AE2;
+    
+}
