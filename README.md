@@ -11,6 +11,14 @@
   <li>Second, learning what is a Observer Pattern, and implementing in the project</li>
   <li>Third, the verification logic, it was confused at time.</li>
   <li>Fourth, the state of the game, and how to manipulate that state.</li>
- </ul> 
+ </ul>
+ <h2>Features</h2>
+ <p>Here is some features that i intend to implement in future.
+ <ul>
+  <li>Responsivity of game</li>
+  <li>Two online payers</li>
+  <li>Score</li>
+  <li>Add to touch to move players</li>
+ </ul>
  <h2>Overview</h2>
 </div>
