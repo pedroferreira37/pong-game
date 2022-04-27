@@ -1,4 +1,4 @@
-<h1>PONGA GAME</h1>
+<h1>PONG GAME</h1>
 <div>
  <h2>Description</h2>
  <p>This project is a old pong game model, like those from Atari</p>
